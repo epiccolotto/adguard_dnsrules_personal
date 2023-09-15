@@ -2,3 +2,4 @@
 @@||*.canva.com^
 @@||lycraservice-pa.googleapis.com^
 @@||login.live.com^
+@@||signup.live.com^
