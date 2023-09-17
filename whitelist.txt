@@ -5,3 +5,4 @@
 @@||signup.live.com^
 @@||launcher.mojang.com^
 @@||g.live.com^
+@@||skydrive.wns.windows.com^
